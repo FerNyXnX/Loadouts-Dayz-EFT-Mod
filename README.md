@@ -24,7 +24,7 @@ Todo el trabajo está basado en la edición de archivos **JSON**, siguiendo regl
 Ejemplo:
 ```
 {
-            "SlotName": "Body", <!-- Esto es un comentario y no aparecerá en el README -->
+            "SlotName": "Body", **Esto es un comentario y no aparecerá en el README**
 
             "Items": [
                 {
