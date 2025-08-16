@@ -6,8 +6,8 @@ Todo el trabajo está basado en la edición de archivos **JSON**, siguiendo regl
 
 ## 📂 Estructura del Proyecto
 
-├── Loadouts/ #Carpeta princpial <br>
-│└── archivos.json #18 archivos principales
+├── Loadouts/  # Carpeta princpial <br>
+│└── archivos.json  # 18 archivos principales
 
 ---
 
