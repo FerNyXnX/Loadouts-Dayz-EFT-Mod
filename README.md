@@ -22,7 +22,7 @@ Todo el trabajo está basado en la edición de archivos **JSON**, siguiendo regl
 5. Solamente esta permitido editar para Admins asignados.
 
 ```Ejemplo:```
-```json
+```js
 {
             "SlotName": "Body", // Categoría
 
@@ -51,7 +51,7 @@ Todo el trabajo está basado en la edición de archivos **JSON**, siguiendo regl
 ```
 
 ```Ejemplo con aditamentos```
-```Json
+```Js
 {
             "ClassName": "WEAPON", // Tipo
             "Chance": 1.0, // Chance de aparición
@@ -177,14 +177,23 @@ Todo el trabajo está basado en la edición de archivos **JSON**, siguiendo regl
         }
 ```
 
-Los tipos de categorías de ropa son: <br>
-``` Body ``` <!-- Cuerpo --> <br>
-``` Legs ``` // Piernas <br>
-``` Feet ``` // Pies <br>
-``` Gloves ``` // Guantes <br>
-``` Vest``` // Chalecos <br>
-``` Hips ``` // Cinturones <br>
-``` HELMET ``` // Cascos <br>
-``` Mask ``` // Mascaras <br>
-``` Armband ``` // Brazaletes <br>
-``` BackPack ``` // Mochilas
+# Los tipos de categorías de ropa son: <br>
+```js
+'Body' - Torso 
+'Legs' - Piernas 
+'Feet' - Pies 
+'Gloves' - Guantes 
+'Vest' - Chalecos 
+'Hips' - Cinturones 
+'HELMET' - Cascos 
+'Mask' - Mascaras 
+'Armband' - Brazaletes 
+'BackPack' - Mochilas
+```
+
+# 🚀 Instalación
+
+Clona este repositorio:
+```
+git clone https://github.com/usuario/dayz-mod.git
+```
