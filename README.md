@@ -195,5 +195,6 @@ Todo el trabajo está basado en la edición de archivos **JSON**, siguiendo regl
 
 Clona este repositorio:
 ```
-git clone https://github.com/usuario/dayz-mod.git
+git clone https://github.com/FerNyXnX/Loadouts-Dayz-EFT-Mod.git
 ```
+o descarga
