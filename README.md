@@ -177,3 +177,14 @@ Todo el trabajo está basado en la edición de archivos **JSON**, siguiendo regl
         }
 ```
 
+Los tipos de categorías de ropa son: <br>
+``` Body ``` <!-- Cuerpo --> <br>
+``` Legs ``` // Piernas <br>
+``` Feet ``` // Pies <br>
+``` Gloves ``` // Guantes <br>
+``` Vest``` // Chalecos <br>
+``` Hips ``` // Cinturones <br>
+``` HELMET ``` // Cascos <br>
+``` Mask ``` // Mascaras <br>
+``` Armband ``` // Brazaletes <br>
+``` BackPack ``` // Mochilas
