@@ -22,7 +22,7 @@ Todo el trabajo está basado en la edición de archivos **JSON**, siguiendo regl
 5. Solamente esta permitido editar para Admins asignados.
 
 Ejemplo:
-```
+```json
 {
             "SlotName": "Body", /*Categoría*/
 
@@ -48,5 +48,5 @@ Ejemplo:
                 }    
             ]
         }
-```
+```json
 
