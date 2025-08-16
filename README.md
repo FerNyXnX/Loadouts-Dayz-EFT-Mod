@@ -7,7 +7,7 @@ Todo el trabajo está basado en la edición de archivos **JSON**, siguiendo regl
 ## 📂 Estructura del Proyecto
 
 ├── Loadouts/  # Carpeta princpial <br>
-│└── archivos.json  # 18 archivos principales
+│&nbsp;└── archivos.json  # 18 archivos principales
 
 ---
 
@@ -20,5 +20,3 @@ Todo el trabajo está basado en la edición de archivos **JSON**, siguiendo regl
 3. Mantener la misma estructura y convenciones.
 4. Es necesario tener el servidor activo y entrar en el juego para esta labor.
 5. Solamente esta permitido editar para Admins asignados.
-├── Loadouts &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; # Carpeta principal
-     ├── archivos.json &nbsp;&nbsp;&nbsp;&nbsp; # 18 archivos principales
