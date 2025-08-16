@@ -21,7 +21,7 @@ Todo el trabajo está basado en la edición de archivos **JSON**, siguiendo regl
 4. Es necesario tener el servidor activo y entrar en el juego para esta labor.
 5. Solamente esta permitido editar para Admins asignados.
 
-Ejemplo:
+```Ejemplo:```
 ```json
 {
             "SlotName": "Body", // Categoría
@@ -47,6 +47,133 @@ Ejemplo:
                     "Sets": []
                 }    
             ]
+        }
+```
+
+```Ejemplo con aditamentos```
+```Json
+{
+            "ClassName": "WEAPON", // Categoría
+            "Chance": 1.0, // Chance de aparición
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [],
+            "InventoryAttachments": [
+                {
+                    "SlotName": "Shoulder", // Categoría
+                    "Items": [
+                        {
+                            "ClassName": "GCGN_MP7", // Identificador (Arma)
+                            "Chance": 1.0, // Chance de aparición
+                            "Quantity": {
+                                "Min": 0.0,
+                                "Max": 0.0
+                            },
+                            "Health": [],
+                            "InventoryAttachments": [
+                                {
+                                    "SlotName": "",
+                                    "Items": [
+                                        {
+                                            "ClassName": "GCGN_MP7_40Rnd", // Identificador (Cargador)
+                                            "Chance": 1.0, // Chance de aparición
+                                            "Quantity": {
+                                                "Min": 0.0,
+                                                "Max": 0.0
+                                            },
+                                            "Health": [],
+                                            "InventoryAttachments": [],
+                                            "InventoryCargo": [],
+                                            "ConstructionPartsBuilt": [],
+                                            "Sets": []
+                                        },
+                                        {
+                                            "ClassName": "SNAFU_Aimpoint_ACO", // Identificador (Aditamento-mira)
+                                            "Chance": 1.0, // Chance de aparición
+                                            "Quantity": {
+                                                "Min": 0.0,
+                                                "Max": 0.0
+                                            },
+                                            "Health": [],
+                                            "InventoryAttachments": [
+                                                {
+                                                    "SlotName": "",
+                                                    "Items": [
+                                                        {
+                                                            "ClassName": "Battery9V", // Identificador (aditamento de la mira)
+                                                            "Chance": 1.0, // Chance de aparición
+                                                            "Quantity": {
+                                                                "Min": 0.0,
+                                                                "Max": 0.0
+                                                            },
+                                                            "Health": [],
+                                                            "InventoryAttachments": [],
+                                                            "InventoryCargo": [],
+                                                            "ConstructionPartsBuilt": [],
+                                                            "Sets": []
+                                                        }
+                                                    ]
+                                                }
+                                            ],
+                                            "InventoryCargo": [],
+                                            "ConstructionPartsBuilt": [],
+                                            "Sets": []
+                                        }
+                                    ]
+                                }
+                            ],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        }
+                    ]
+                }
+            ],
+            "InventoryCargo": [ // Cargamento en el inventario
+                {
+                    "ClassName": "GCGN_MP7_40Rnd", // Identificador (Cargador)
+                    "Chance": 1.0, // Chance de aparición
+                    "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+                    },
+                    "Health": [],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "GCGN_MP7_40Rnd", // Identificador (Cargador)
+                    "Chance": 1.0, // Chance de aparición
+                    "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+                    },
+                    "Health": [],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "GCGN_MP7_40Rnd", // Identificador (Cargador)
+                    "Chance": 1.0, // Chance de aparición
+                    "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+                    },
+                    "Health": [],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                }
+            ],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
         }
 ```
 
