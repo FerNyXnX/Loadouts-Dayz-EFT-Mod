@@ -191,15 +191,13 @@ Todo el trabajo está basado en la edición de archivos **JSON**, siguiendo regl
 'BackPack' - Mochilas
 ```
 
-# 🚀 Instalación
+# 🚀 Instalación y modificaciónes
 
 Clona este repositorio:
 ```
 git clone https://github.com/FerNyXnX/Loadouts-Dayz-EFT-Mod.git
 ```
-O descarga el archivo
 
-<img width="392" height="293" alt="image" src="https://github.com/user-attachments/assets/ce633d18-cfcd-4f94-ac48-1bc186cf74ec" />
 
 
 # 🤝 Contribuciones
