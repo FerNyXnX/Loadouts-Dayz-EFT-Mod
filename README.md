@@ -197,4 +197,15 @@ Clona este repositorio:
 ```
 git clone https://github.com/FerNyXnX/Loadouts-Dayz-EFT-Mod.git
 ```
-o descarga
+O descarga el archivo
+
+<img width="392" height="293" alt="image" src="https://github.com/user-attachments/assets/ce633d18-cfcd-4f94-ac48-1bc186cf74ec" />
+
+
+# 🤝 Contribuciones
+
+Respetar las reglas de edición descritas.
+
+No inventar nuevos códigos fuera de la estructura ya existente.
+
+Hacer pull requests claros con la descripción de los cambios.
