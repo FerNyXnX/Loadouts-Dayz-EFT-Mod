@@ -192,13 +192,50 @@ Todo el trabajo está basado en la edición de archivos **JSON**, siguiendo regl
 ```
 
 # 🚀 Instalación y modificaciónes
+`En la terminal de VSCode`
 
-Clona este repositorio:
-```
+## Clona este repositorio:
+```js
 git clone https://github.com/FerNyXnX/Loadouts-Dayz-EFT-Mod.git
 ```
 
+## Abrir la carpeta del repositorio en VSCode
 
+```js
+cd Loadouts-Dayz-EFT-Mod`
+```
+
+```js
+code .
+```
+`Esto abrirá todo el proyecto en VSCode.`
+
+## Preparar los cambios para el commit
+
+```js
+ git add .
+```
+## Guardar los cambios
+
+```js
+git commit -m "Descripción de los cambios"
+
+```
+`Para la descripción de los cambios debe ser un mensaje breve y claro`
+
+`Ejemplo:`
+```js
+git commit -m "Renombrados identificadores de ropa"
+
+```
+```js
+git commit -m "Actualización general"
+
+```
+## Subir los cambios a GitHub
+```js
+git push origin main  
+```
 
 # 🤝 Contribuciones
 
