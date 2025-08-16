@@ -49,3 +49,4 @@ Ejemplo:
             ]
         }
 ```
+<pre> ```markdown ├── Loadouts/ # Carpeta principal │ └── archivos.json # 18 archivos principales ``` </pre>
