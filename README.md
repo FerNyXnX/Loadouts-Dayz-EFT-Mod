@@ -24,7 +24,7 @@ Todo el trabajo está basado en la edición de archivos **JSON**, siguiendo regl
 Ejemplo:
 ```
 {
-            "SlotName": "Body", //Categoría
+            "SlotName": "Body", /*Categoría*/
 
             "Items": [
                 {
@@ -49,4 +49,4 @@ Ejemplo:
             ]
         }
 ```
-<pre> ```markdown ├── Loadouts/ # Carpeta principal │ └── archivos.json # 18 archivos principales ``` </pre>
+
