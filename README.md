@@ -24,7 +24,8 @@ Todo el trabajo está basado en la edición de archivos **JSON**, siguiendo regl
 Ejemplo:
 ```
 {
-            "SlotName": "Body", ```Categoría```
+            "SlotName": "Body", <!-- Esto es un comentario y no aparecerá en el README -->
+
             "Items": [
                 {
                     "ClassName": "GorkaEJacket_Autumn",
