@@ -6,8 +6,8 @@ Todo el trabajo está basado en la edición de archivos **JSON**, siguiendo regl
 
 ## 📂 Estructura del Proyecto
 
-├── Loadouts  ```# Carpeta princpial``` <br>
-│&nbsp;└── archivos.json  ```# 18 archivos principales```
+├── Loadouts  ```Carpeta princpial``` <br>
+│&nbsp;└── archivos.json  ```18 archivos principales```
 
 ---
 
@@ -20,3 +20,31 @@ Todo el trabajo está basado en la edición de archivos **JSON**, siguiendo regl
 3. Mantener la misma estructura y convenciones.
 4. Es necesario tener el servidor activo y entrar en el juego para esta labor.
 5. Solamente esta permitido editar para Admins asignados.
+
+Ejemplo:
+```
+{
+            "SlotName": "Body",
+            "Items": [
+                {
+                    "ClassName": "GorkaEJacket_Autumn",
+                    "Chance": 1.0,
+                    "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.699999988079071,
+                            "Max": 1.0,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                }    
+            ]
+        }
+```
