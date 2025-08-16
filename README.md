@@ -24,7 +24,7 @@ Todo el trabajo está basado en la edición de archivos **JSON**, siguiendo regl
 Ejemplo:
 ```
 {
-            "SlotName": "Body",
+            "SlotName": "Body", ```Categoría```
             "Items": [
                 {
                     "ClassName": "GorkaEJacket_Autumn",
