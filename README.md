@@ -3,12 +3,12 @@ Este proyecto contiene modificaciones personalizadas para **DayZ**, enfocadas en
 Todo el trabajo está basado en la edición de archivos **JSON**, siguiendo reglas estrictas para mantener la consistencia del mod.
 
 ---
-```
+
 ## 📂 Estructura del Proyecto
 
 ├── Loadouts # Carpeta princpial
-└── archivos.json # 18 archivos principales
-  ```
+│ └── archivos.json # 18 archivos principales
+
 ---
 
 ## 📝 Reglas para Editar el Código
