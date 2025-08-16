@@ -24,12 +24,12 @@ Todo el trabajo está basado en la edición de archivos **JSON**, siguiendo regl
 Ejemplo:
 ```json
 {
-            "SlotName": "Body", # Categoría
+            "SlotName": "Body", // Categoría
 
             "Items": [
                 {
-                    "ClassName": "GorkaEJacket_Autumn", # Identificador
-                    "Chance": 1.0, # Chance de aparición
+                    "ClassName": "GorkaEJacket_Autumn", // Identificador
+                    "Chance": 1.0, // Chance de aparición
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
@@ -48,5 +48,5 @@ Ejemplo:
                 }    
             ]
         }
-```json
+```
 
