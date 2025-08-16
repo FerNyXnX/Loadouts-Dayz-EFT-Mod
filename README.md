@@ -53,7 +53,7 @@ Todo el trabajo está basado en la edición de archivos **JSON**, siguiendo regl
 ```Ejemplo con aditamentos```
 ```Json
 {
-            "ClassName": "WEAPON", // Categoría
+            "ClassName": "WEAPON", // Tipo
             "Chance": 1.0, // Chance de aparición
             "Quantity": {
                 "Min": 0.0,
