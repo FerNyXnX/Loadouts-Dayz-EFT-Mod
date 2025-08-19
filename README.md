@@ -232,6 +232,12 @@ git commit -m "Renombrados identificadores de ropa"
 git commit -m "Actualización general"
 
 ```
+## Jalar los archivos antes de subirlos
+```js
+git pull origin main
+
+```
+
 ## Subir los cambios a GitHub
 ```js
 git push origin main  
