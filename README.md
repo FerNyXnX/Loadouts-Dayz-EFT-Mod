@@ -202,7 +202,7 @@ git clone https://github.com/FerNyXnX/Loadouts-Dayz-EFT-Mod.git
 ## Abrir la carpeta del repositorio en VSCode
 
 ```js
-cd Loadouts-Dayz-EFT-Mod`
+cd Loadouts-Dayz-EFT-Mod
 ```
 
 ```js
