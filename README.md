@@ -245,14 +245,14 @@ git push origin main
 
 ## Archivos hechos por Ferny
 
-`BigPipe`
-`Birdeye`
-`Knight`
-`Cultist`
-`Shturman`
-`js 
+`BigPipe` <br>
+`Birdeye` <br>
+`Knight` <br>
+`Cultist` <br>
+`Shturman` <br>
+```js 
 Raiders // Faltan más armas
-`
+```
 
 # 🤝 Contribuciones
 
