@@ -243,6 +243,17 @@ git pull origin main
 git push origin main  
 ```
 
+## Archivos hechos por Ferny
+
+`BigPipe`
+`Birdeye`
+`Knight`
+`Cultist`
+`Shturman`
+`js 
+Raiders // Faltan más armas
+`
+
 # 🤝 Contribuciones
 
 Respetar las reglas de edición descritas.
