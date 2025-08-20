@@ -202,7 +202,7 @@ git clone https://github.com/FerNyXnX/Loadouts-Dayz-EFT-Mod.git
 ## Abrir la carpeta del repositorio en VSCode
 
 ```js
-cd Loadouts-Dayz-EFT-Mod`
+cd Loadouts-Dayz-EFT-Mod
 ```
 
 ```js
@@ -232,9 +232,26 @@ git commit -m "Renombrados identificadores de ropa"
 git commit -m "Actualización general"
 
 ```
+## Jalar los archivos antes de subirlos
+```js
+git pull origin main
+
+```
+
 ## Subir los cambios a GitHub
 ```js
 git push origin main  
+```
+
+## Archivos hechos por Ferny
+
+`BigPipe` <br>
+`Birdeye` <br>
+`Knight` <br>
+`Cultist` <br>
+`Shturman` <br>
+```js 
+Raiders // Faltan más armas
 ```
 
 # 🤝 Contribuciones
