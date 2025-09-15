@@ -243,15 +243,19 @@ git pull origin main
 git push origin main  
 ```
 
-## Archivos hechos por Ferny
+## Archivos Realizados
 
 `BigPipe` <br>
 `Birdeye` <br>
 `Knight` <br>
 `Cultist` <br>
 `Shturman` <br>
+`Killa` <br>
+`Glukhar` <br>
+`Sanitar` 
 ```js 
 Raiders // Faltan más armas
+Reshala // Faltan más armas
 ```
 
 # 🤝 Contribuciones
