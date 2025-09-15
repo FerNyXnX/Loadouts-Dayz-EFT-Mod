@@ -3639,7 +3639,7 @@
                     "SlotName": "Shoulder",
                     "Items": [
                         {
-                            "ClassName": "FAMAS",
+                            "ClassName": "SNAFU_SR25_Gun",
                             "Chance": 1.0,
                             "Quantity": {
                                 "Min": 0.0,
@@ -3651,7 +3651,25 @@
                                     "SlotName": "",
                                     "Items": [
                                         {
-                                            "ClassName": "Mag_FAMAS_25Rnd",
+                                            "ClassName": "GCGN_M110_Mag",
+                                            "Chance": 1.0,
+                                            "Quantity": {
+                                                "Min": 0.0,
+                                                "Max": 0.0
+                                            },
+                                            "Health": [],
+                                            "InventoryAttachments": [],
+                                            "InventoryCargo": [],
+                                            "ConstructionPartsBuilt": [],
+                                            "Sets": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "SlotName": "",
+                                    "Items": [
+                                        {
+                                            "ClassName": "ACOGOptic",
                                             "Chance": 1.0,
                                             "Quantity": {
                                                 "Min": 0.0,
@@ -3675,7 +3693,7 @@
             ],
             "InventoryCargo": [
                 {
-                    "ClassName": "Mag_FAMAS_25Rnd",
+                    "ClassName": "GCGN_M110_Mag",
                     "Chance": 1.0,
                     "Quantity": {
                         "Min": 0.0,
@@ -3688,7 +3706,7 @@
                     "Sets": []
                 },
                 {
-                    "ClassName": "Mag_FAMAS_25Rnd",
+                    "ClassName": "GCGN_M110_Mag",
                     "Chance": 1.0,
                     "Quantity": {
                         "Min": 0.0,
@@ -3701,7 +3719,7 @@
                     "Sets": []
                 },
                 {
-                    "ClassName": "Mag_FAMAS_25Rnd",
+                    "ClassName": "GCGN_M110_Mag",
                     "Chance": 1.0,
                     "Quantity": {
                         "Min": 0.0,
@@ -3809,7 +3827,7 @@
             "Sets": []
         },
         {
-            "ClassName": "WEAPON",
+            "ClassName": "WEAPON", 
             "Chance": 1.0,
             "Quantity": {
                 "Min": 0.0,
@@ -3821,7 +3839,7 @@
                     "SlotName": "Shoulder",
                     "Items": [
                         {
-                            "ClassName": "Tec9_Gun",
+                            "ClassName": "SNAFUMDARSBR_Black",
                             "Chance": 1.0,
                             "Quantity": {
                                 "Min": 0.0,
@@ -3833,7 +3851,43 @@
                                     "SlotName": "",
                                     "Items": [
                                         {
-                                            "ClassName": "Tec9_Mag",
+                                            "ClassName": "SNAFU_BMAG556_Black",
+                                            "Chance": 1.0,
+                                            "Quantity": {
+                                                "Min": 0.0,
+                                                "Max": 0.0
+                                            },
+                                            "Health": [],
+                                            "InventoryAttachments": [],
+                                            "InventoryCargo": [],
+                                            "ConstructionPartsBuilt": [],
+                                            "Sets": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "SlotName": "",
+                                    "Items": [
+                                        {
+                                            "ClassName": "SNAFU_EOTech_EXPS3",
+                                            "Chance": 1.0,
+                                            "Quantity": {
+                                                "Min": 0.0,
+                                                "Max": 0.0
+                                            },
+                                            "Health": [],
+                                            "InventoryAttachments": [],
+                                            "InventoryCargo": [],
+                                            "ConstructionPartsBuilt": [],
+                                            "Sets": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "SlotName": "",
+                                    "Items": [
+                                        {
+                                            "ClassName": "SNAFUMDAR_Supp_Black",
                                             "Chance": 1.0,
                                             "Quantity": {
                                                 "Min": 0.0,
@@ -3857,33 +3911,7 @@
             ],
             "InventoryCargo": [
                 {
-                    "ClassName": "Tec9_Mag",
-                    "Chance": 1.0,
-                    "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
-                    },
-                    "Health": [],
-                    "InventoryAttachments": [],
-                    "InventoryCargo": [],
-                    "ConstructionPartsBuilt": [],
-                    "Sets": []
-                },
-                {
-                    "ClassName": "Tec9_Mag",
-                    "Chance": 1.0,
-                    "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
-                    },
-                    "Health": [],
-                    "InventoryAttachments": [],
-                    "InventoryCargo": [],
-                    "ConstructionPartsBuilt": [],
-                    "Sets": []
-                },
-                {
-                    "ClassName": "Tec9_Mag",
+                    "ClassName": "SNAFU_BMAG556_Black",
                     "Chance": 1.0,
                     "Quantity": {
                         "Min": 0.0,
@@ -4628,7 +4656,7 @@
                     "SlotName": "Shoulder",
                     "Items": [
                         {
-                            "ClassName": "M46933_Gun",
+                            "ClassName": "M4_6933_Gun",
                             "Chance": 1.0,
                             "Quantity": {
                                 "Min": 0.0,
