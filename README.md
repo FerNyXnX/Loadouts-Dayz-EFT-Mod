@@ -243,7 +243,7 @@ git pull origin main
 git push origin main  
 ```
 
-## Archivos hechos por Ferny
+## Archivos Realizados
 
 `BigPipe` <br>
 `Birdeye` <br>
