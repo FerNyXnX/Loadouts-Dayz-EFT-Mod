@@ -249,13 +249,13 @@ git push origin main
 `Birdeye` <br>
 `Knight` <br>
 `Cultist` <br>
-`Shturman // Faltan armas` <br>
-`Reshala` <br>
+`Shturman` <br>
 `Killa` <br>
 `Glukhar` <br>
 `Sanitar` 
 ```js 
 Raiders // Faltan más armas
+Reshala // Faltan más armas
 ```
 
 # 🤝 Contribuciones
