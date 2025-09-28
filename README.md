@@ -252,10 +252,16 @@ git push origin main
 `Shturman` <br>
 `Killa` <br>
 `Glukhar` <br>
-`Sanitar` 
+`Sanitar` <br>
+`Reshala` <br>
+`Santa` <br>
+`Tagilla` <br>
 ```js 
 Raiders // Faltan más armas
-Reshala // Faltan más armas
+Scavs// Faltan más armas
+Guardias_Sanitar // Faltan
+Guardias_Reshala // Faltan
+Guardias_Glukhar // Faltan
 ```
 
 # 🤝 Contribuciones
