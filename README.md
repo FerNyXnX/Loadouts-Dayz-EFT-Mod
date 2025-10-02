@@ -256,11 +256,11 @@ git push origin main
 `Reshala` <br>
 `Santa` <br>
 `Tagilla` <br>
-`Guardias_Shturman`
+`Guardias_Shturman` <br>
 ```js 
 Raiders // Faltan más armas
 Scavs// Faltan más armas
-Guardias_Reshala // Faltan
+Guardias_Reshala // Faltan más armas
 Guardias_Glukhar // Faltan
 Guardias_Sanitar // Faltan
 ```
